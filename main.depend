@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734868145 source:d:\kuliah semester 3\praktikum struktur data\modul 10 real\main\main.cpp
+	<iostream>
+	"treeReal.h"
+
+1734865590 d:\kuliah semester 3\praktikum struktur data\modul 10 real\main\treereal.h
+	<iostream>
+
